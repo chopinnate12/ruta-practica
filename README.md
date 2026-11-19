@@ -12,6 +12,9 @@ Agenda para que un estudiante registre sus postulaciones a prácticas profesiona
 3. Abre **http://localhost:8000** en Chrome o Edge. Usa siempre la misma dirección y puerto para recuperar tus registros. Para detener el servidor, presiona Ctrl+C.
 4. Si usas Visual Studio Code con Live Server, también puedes abrir `index.html` con **Open with Live Server**. Esa dirección tendrá su propio almacenamiento.
 
+## Link de la Pagina Subida por Medio de GitHub
+https://chopinnate12.github.io/ruta-practica/
+
 ## Código y datos
 
 | Archivo | Función |
