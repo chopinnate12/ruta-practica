@@ -69,4 +69,4 @@ La revisión sugirió extraer `leerFormulario()` y volver a «Todos» cuando un 
 
 ## Video y entrega
 
-La grabación personal está pendiente. Al terminarla, sustituye esta frase por el enlace de visualización del video. Comprueba en una ventana privada que se abren el repositorio y el video. El único enlace que entregas al profesor es el de este README en GitHub.
+
