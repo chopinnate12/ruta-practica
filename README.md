@@ -48,6 +48,9 @@ La aplicación usa HTML, CSS y JavaScript sin dependencias. Guarda un arreglo de
 **Confirmar la eliminación**  
 ![Diálogo que identifica el cargo y la empresa](capturas/confirmar.jpg)
 
+**Resultado después de eliminar y recargar**  
+![Lista vacía y contador en cero después de eliminar la postulación](capturas/eliminada.jpg)
+
 ## Desarrollo guiado por IA
 
 Herramienta utilizada: ChatGPT con Codex. La consigna del seminario inició el desarrollo. Durante la preparación se enviaron las siguientes instrucciones a un asistente de IA. El estudiante puede reproducir el proceso en una copia y documentar sus propias decisiones en el video.
